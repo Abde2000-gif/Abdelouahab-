@@ -1,0 +1,2 @@
+<!DOCTYPE html> <html> <head> <title>صفحة الهبوط</title> </head> <body> <h1>مرحبًا!</h1> <p>هذه صفحة الهبوط الخاصة بي.</p> </body> </html> (<!DOCTYPE html> <html> <head> <title>صفحة الهبوط</title> </head> <body> <h1>مرحبًا!</h1> <p>هذه الصفحة الهبوط الخاصة بي.</p> < / الجسم> </html>)‏
+
